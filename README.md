@@ -152,7 +152,9 @@ The Ultimate resource hub of Python: All at one place
 - To be Added
 
 ## 14. Python Community and Groups
-- To be Added
+1. [PySlackers](https://pyslackers.com/)
+2. [r/Python](https://www.reddit.com/r/Python/)
+3. [Python Discord Server](https://discord.com/invite/python)
 
 ## 15. Python Devs to Follow on Twitter
 - To be Added
