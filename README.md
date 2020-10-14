@@ -1,7 +1,7 @@
 # Ultimate-Python-Resource-Hub
 The Ultimate resource hub of Python: All at one place
 
-https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub/blob/master/cover.png
+![alt text](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub/blob/master/cover.png)
 
 ## [Python Official Documentation](https://docs.python.org/3/)
 
