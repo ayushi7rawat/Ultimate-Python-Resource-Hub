@@ -111,11 +111,11 @@ The Ultimate resource hub of Python: All at one place
 6. The Python Bible (Udemy)
 - [Coursera](https://www.coursera.org/learn/python-network-data)
 - [Udemy: Python for Absolute Beginners](https://www.udemy.com/course/python-for-absolute-beginners-u/)
-- [w3schools.com](https://pythonprogramming.net/)
-- [w3schools.com](https://www.udemy.com/course/complete-python-bootcamp/)
+- [pythonprogramming.net](https://pythonprogramming.net/)
+- [Udemy Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)
 - [Automate the Boring Stuff with Python Programming](https://www.udemy.com/course/automate/)
-- [w3schools.com](https://www.linkedin.com/learning/python-essential-training-2/welcome)
-- [w3schools.com](https://www.linkedin.com/learning/learning-python-2/welcome)
+- [Linkedin Python Essential Training](https://www.linkedin.com/learning/python-essential-training-2/welcome)
+- [Linkedin Learning Python 2](https://www.linkedin.com/learning/learning-python-2/welcome)
 - [Udacity](https://www.udacity.com/course/introduction-to-python--ud1110)
 
 ## 10. Technical Blogging Platforms
@@ -158,3 +158,7 @@ The Ultimate resource hub of Python: All at one place
 
 ## 15. Python Devs to Follow on Twitter
 - To be Added
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
