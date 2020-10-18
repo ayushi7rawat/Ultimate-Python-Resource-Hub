@@ -1,4 +1,5 @@
 # Ultimate-Python-Resource-Hub
+
 The Ultimate resource hub of Python: All at one place
 
 ![alt text](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub/blob/master/cover.png)
@@ -9,7 +10,7 @@ The Ultimate resource hub of Python: All at one place
 Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub/blob/master/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub/blob/master/CODE-OF-CONDUCT.md) for details.
 
 ## Table of Contents
-- [Awesome PHP](#awesome-php)
+- [Ultimate-Python-Resource-Hub](#Ultimate-Python-Resource-Hub)
     - [Python Books](#Python-Books)
     - [Python IDEs](#Python-IDEs)
     - [Components](#components)
