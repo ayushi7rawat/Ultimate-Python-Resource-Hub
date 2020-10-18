@@ -27,7 +27,7 @@ Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resour
 14. [Python Community and Groups](#Python-Community-and-Groups)
 15. [Python Devs to Follow on Twitter](#Python-Devs-to-Follow-on-Twitter)
     
-## 1. Python Books
+## 1. Python Books{#Python-Books}
 1. Automate the Boring Stuff with Python
 2. Python Crash Course
 3. Python Cookbook
