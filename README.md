@@ -38,6 +38,7 @@ Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resour
 8. Python Tricks by Dan Bader
 9. Dive into Python
 10. Fluent Python
+11. [A byte of Python](https://python.swaroopch.com/) by Swaroop 
 
 ## Python IDEs
 1. [Jupyter Notebook](https://jupyter.org/install)
