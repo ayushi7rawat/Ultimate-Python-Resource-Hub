@@ -11,7 +11,7 @@ Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resour
 
 ## Table of Contents
 - [Ultimate-Python-Resource-Hub](#Ultimate-Python-Resource-Hub)
-    - [1. Python Books](#Python-Books)
+    - [1. Python Books](#1.Python-Books)
     - [Python IDEs](#Python-IDEs)
     - [Components](#components)
     - [Components](#components)
@@ -36,7 +36,7 @@ Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resour
     - [Components](#components)
     - [Components](#components)
     
-## Python Books
+## 1.Python Books
 1. Automate the Boring Stuff with Python
 2. Python Crash Course
 3. Python Cookbook
