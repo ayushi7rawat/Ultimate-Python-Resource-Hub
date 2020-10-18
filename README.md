@@ -19,7 +19,7 @@ Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resour
     - [6. Free Hosting Platforms for Python](#6.Free-Hosting-Platforms-for-Python)
     - [7. Python YouTube channels](#7.Python-YouTube-channels)
     - [8. Python Websites](#8.Python-Websites)
-    - [9. Python Courses (Video Tutorials)](#9.Python-Courses-(Video Tutorials))
+    - [9. Python Courses(Video Tutorials)](#9.Python-Courses-(Video Tutorials))
     - [10. Technical Blogging Platforms](#10.Technical-Blogging-Platforms)
     - [11. Python Mobile Applications](#11.Python-Mobile-Applications)
     - [12. Python Libraries for GUI Development](#12.Python-Libraries-for-GUI-Development)
