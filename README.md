@@ -10,7 +10,7 @@ The Ultimate resource hub of Python: All at one place
 Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub/blob/master/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub/blob/master/CODE-OF-CONDUCT.md) for details.
 
 ## Table of Contents
-- [Ultimate-Python-Resource-Hub](#Ultimate-Python-Resource-Hub) 
+[Ultimate-Python-Resource-Hub](#Ultimate-Python-Resource-Hub) 
 1. [Python Books](#Python-Books)
 2. [Python IDEs](#Python-IDEs)
 3. [Coding Practice Playground for Python](#Coding-Practice-Playground-for-Python)
