@@ -10,22 +10,22 @@ The Ultimate resource hub of Python: All at one place
 Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub/blob/master/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub/blob/master/CODE-OF-CONDUCT.md) for details.
 
 ## Table of Contents
-- [Ultimate-Python-Resource-Hub](#Ultimate-Python-Resource-Hub)
-    - [Python Books](#Python-Books)
-    - [Python IDEs](#Python-IDEs)
-    - [Coding Practice Playground for Python](#Coding-Practice-Playground-for-Python)
-    - [Python Podcasts](#Python-Podcasts)
-    - [Python Newsletters](#Python-Newsletters)
-    - [Free Hosting Platforms for Python](#Free-Hosting-Platforms-for-Python)
-    - [Python YouTube channels](#Python-YouTube-channels)
-    - [Python Websites](#Python-Websites)
-    - [Python Courses-Video Tutorials](#Python-Courses-Video-Tutorials)
-    - [Technical Blogging Platforms](#Technical-Blogging-Platforms)
-    - [Python Mobile Applications](#Python-Mobile-Applications)
-    - [Python Libraries for GUI Development](#Python-Libraries-for-GUI-Development)
-    - [Python Github Repositories](#Python-Github-Repositories)
-    - [Python Community and Groups](#Python-Community-and-Groups)
-    - [Python Devs to Follow on Twitter](#Python-Devs-to-Follow-on-Twitter)
+- [Ultimate-Python-Resource-Hub](#Ultimate-Python-Resource-Hub) 
+1. [Python Books](#Python-Books)
+2. [Python IDEs](#Python-IDEs)
+3. [Coding Practice Playground for Python](#Coding-Practice-Playground-for-Python)
+4. [Python Podcasts](#Python-Podcasts)
+5. [Python Newsletters](#Python-Newsletters)
+6. [Free Hosting Platforms for Python](#Free-Hosting-Platforms-for-Python)
+7. [Python YouTube channels](#Python-YouTube-channels)
+8. [Python Websites](#Python-Websites)
+9. [Python Courses-Video Tutorials](#Python-Courses-Video-Tutorials)
+10. [Technical Blogging Platforms](#Technical-Blogging-Platforms)
+11. [Python Mobile Applications](#Python-Mobile-Applications)
+12. [Python Libraries for GUI Development](#Python-Libraries-for-GUI-Development)
+13. [Python Github Repositories](#Python-Github-Repositories)
+14. [Python Community and Groups](#Python-Community-and-Groups)
+15. [Python Devs to Follow on Twitter](#Python-Devs-to-Follow-on-Twitter)
     
 ## Python Books
 1. Automate the Boring Stuff with Python
