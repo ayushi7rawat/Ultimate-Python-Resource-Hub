@@ -19,7 +19,7 @@ Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resour
     - [6. Free Hosting Platforms for Python](#6.Free-Hosting-Platforms-for-Python)
     - [7. Python YouTube channels](#7.Python-YouTube-channels)
     - [8. Python Websites](#8.Python-Websites)
-    - [9. Python Courses(Video Tutorials)](#9.Python-Courses-(Video Tutorials))
+    - [9. Python Courses-Video Tutorials](#9.Python-Courses-Video-Tutorials)
     - [10. Technical Blogging Platforms](#10.Technical-Blogging-Platforms)
     - [11. Python Mobile Applications](#11.Python-Mobile-Applications)
     - [12. Python Libraries for GUI Development](#12.Python-Libraries-for-GUI-Development)
@@ -124,7 +124,7 @@ Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resour
 13. [Hitchhiker’s Guide](https://docs.python-guide.org/)
 14. [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
-## 9.Python Courses (Video Tutorials)
+## 9.Python Courses-Video Tutorials
 1. Python for absolute beginners (Udemy)
 2. Python for Everybody (Coursera)
 3. Complete Python Bootcamp: Go From Zero to Hero (Udemy)
