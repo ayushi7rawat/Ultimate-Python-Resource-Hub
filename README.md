@@ -11,7 +11,7 @@ Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resour
 
 ## Table of Contents
 - [Ultimate-Python-Resource-Hub](#Ultimate-Python-Resource-Hub)
-    - [Python Books](#Python-Books)
+    - [1. Python Books](#1.-Python-Books)
     - [Python IDEs](#Python-IDEs)
     - [Components](#components)
     - [Components](#components)
@@ -37,7 +37,6 @@ Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resour
     - [Components](#components)
     
 ## 1. Python Books
-*Python Books.*
 1. Automate the Boring Stuff with Python
 2. Python Crash Course
 3. Python Cookbook
@@ -50,7 +49,6 @@ Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resour
 10. Fluent Python
 
 ## 2. Python IDEs
-*Python IDEs.*
 1. [Jupyter Notebook](https://jupyter.org/install)
 2. [Visual Studio Code](https://code.visualstudio.com/download)
 3. [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)
