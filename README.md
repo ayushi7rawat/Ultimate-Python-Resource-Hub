@@ -11,7 +11,7 @@ Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resour
 
 ## Table of Contents
 - [Ultimate-Python-Resource-Hub](#Ultimate-Python-Resource-Hub)
-    - [1.Python Books](#Python-Books)
+    - [Python Books](#Python-Books)
     - [2.Python IDEs](#Python-IDEs)
     - [3.Coding Practice Playground for Python](#Coding-Practice-Playground-for-Python)
     - [4.Python Podcasts](#Python-Podcasts)
