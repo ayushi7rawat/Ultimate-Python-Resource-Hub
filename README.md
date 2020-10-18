@@ -5,7 +5,38 @@ The Ultimate resource hub of Python: All at one place
 
 ## [Python Official Documentation](https://docs.python.org/3/)
 
+## Contributing
+Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub/blob/master/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub/blob/master/CODE-OF-CONDUCT.md) for details.
+
+## Table of Contents
+- [Awesome PHP](#awesome-php)
+    - [Python Books](#Python-Books)
+    - [Python IDEs](#Python-IDEs)
+    - [Components](#components)
+    - [Components](#components)
+    - [Components](#components)
+    - [Components](#components)
+    - [Components](#components)
+    - [Components](#components)
+    - [Components](#components)
+    - [Components](#components)
+    - [Components](#components)
+    - [Components](#components)
+    - [Components](#components)
+    - [Components](#components)
+    - [Components](#components)
+    - [Components](#components)
+    - [Components](#components)
+    - [Components](#components)
+    - [Components](#components)
+    - [Components](#components)
+    - [Components](#components)
+    - [Components](#components)
+    - [Components](#components)
+    - [Components](#components)
+    
 ## 1. Python Books
+*Python Books.*
 1. Automate the Boring Stuff with Python
 2. Python Crash Course
 3. Python Cookbook
@@ -18,6 +49,7 @@ The Ultimate resource hub of Python: All at one place
 10. Fluent Python
 
 ## 2. Python IDEs
+*Python IDEs.*
 1. [Jupyter Notebook](https://jupyter.org/install)
 2. [Visual Studio Code](https://code.visualstudio.com/download)
 3. [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)

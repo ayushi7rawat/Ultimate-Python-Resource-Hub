@@ -6,6 +6,7 @@ Also, please ensure your pull request adheres to the following guidelines:
 
 - Add one link per Pull Request.
 Make sure the PR title is in the format of Add project-name.
+- Add new branch with name as `contributing`.
 - Search previous Pull Requests or Issues before making a new one, as yours may be a duplicate.
 - Enter a meaningful pull request description.
 - Please make an individual commit for each suggestion in a separate pull request.
