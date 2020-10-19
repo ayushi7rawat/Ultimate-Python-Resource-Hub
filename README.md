@@ -87,6 +87,7 @@ Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resour
 9. [PYnative Newsletter](https://pynative.com/newsletter/)
 10. [Bite Python](http://newsletter.pythontips.com/)
 11. [Python Puzzles ](https://app.finxter.com/learn/computer/science/)
+12. [Python on Microcontrollers](https://www.adafruitdaily.com/category/circuitpython/)
  
 ## 6. Free Hosting Platforms for Python
 1. [AWS](https://aws.amazon.com/)
