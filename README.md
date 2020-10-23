@@ -143,6 +143,7 @@ Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resour
 12. [Linkedin Python Essential Training](https://www.linkedin.com/learning/python-essential-training-2/welcome)
 13. [Linkedin Learning Python 2](https://www.linkedin.com/learning/learning-python-2/welcome)
 14. [Udacity](https://www.udacity.com/course/introduction-to-python--ud1110)
+15. [Python for Non-Programmers](https://PythonForNonProgrammers.com)
 
 ## 10. Technical Blogging Platforms
 - [Hashnode](https://hashnode.com/)
