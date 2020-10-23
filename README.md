@@ -10,7 +10,7 @@ The Ultimate resource hub of Python: All at one place
 Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub/blob/master/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub/blob/master/CODE-OF-CONDUCT.md) for details.
 
 ## Table of Contents
-[Ultimate-Python-Resource-Hub](#Ultimate-Python-Resource-Hub) 
+[Ultimate-Python-Resource-Hub](#Ultimate-Python-Resource-Hub)
 1. [Python Books](#1-Python-Books)
 2. [Python IDEs](#2-Python-IDEs)
 3. [Coding Practice Playground for Python](#3-Coding-Practice-Playground-for-Python)
@@ -26,7 +26,7 @@ Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resour
 13. [Python Github Repositories](#13-Python-Github-Repositories)
 14. [Python Community and Groups](#14-Python-Community-and-Groups)
 15. [Python Devs to Follow on Twitter](#15-Python-Devs-to-Follow-on-Twitter)
-    
+
 ## 1. Python Books
 1. Automate the Boring Stuff with Python
 2. Python Crash Course
@@ -75,7 +75,7 @@ Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resour
 6. [Test & Code](https://testandcode.com/)
 7. [The Real Python Podcast](https://realpython.com/podcasts/rpp/)
 8. [from python import podcast](https://www.frompythonimportpodcast.com/)
- 
+
 ## 5. Python Newsletters:
 1. [Awesome Python Newsletter](https://python.libhunt.com/newsletter)
 2. [Python Weekly](https://www.pythonweekly.com/)
@@ -89,7 +89,7 @@ Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resour
 10. [Bite Python](http://newsletter.pythontips.com/)
 11. [Python Puzzles ](https://app.finxter.com/learn/computer/science/)
 12. [Python on Microcontrollers](https://www.adafruitdaily.com/category/circuitpython/)
- 
+
 ## 6. Free Hosting Platforms for Python
 1. [AWS](https://aws.amazon.com/)
 2. [Render](https://render.com/)
@@ -110,6 +110,7 @@ Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resour
 8. [Chris Hawkes](https://www.youtube.com/user/noobtoprofessional)
 9. [Amulya's Academy](https://www.youtube.com/channel/UCIgXF0FrYJL0a6sMsRIsLvA)
 10. [Joe James](https://www.youtube.com/user/joejamesusa)
+11. [Reuven Lerner](https://www.youtube.com/user/reuvenlerner)
 
 ## 8. Python Websites
 1. [w3schools.com](https://www.w3schools.com/python/)
@@ -120,7 +121,7 @@ Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resour
 6. [Kaggle](https://www.kaggle.com/learn/python)
 7. [Progate](https://progate.com/languages/python)
 8. [Sololearn](https://www.sololearn.com/)
-9. [ Codecademy](https://www.codecademy.com/) 
+9. [ Codecademy](https://www.codecademy.com/)
 10. [Codewars](https://www.codewars.com/)
 11. [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
 12. [PythonForBeginners](https://www.pythonforbeginners.com/basics/python-pip-usage)
@@ -170,7 +171,7 @@ Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resour
 7. urwid
 8. Toga
 
-## 13. Python Github Repositories  
+## 13. Python Github Repositories
 1. [The Algorithms](https://github.com/TheAlgorithms/Python)
 2. [Python](https://github.com/python)
 3. [Coding Interview University](https://github.com/jwasham/coding-interview-university)
@@ -186,4 +187,3 @@ Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resour
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-
