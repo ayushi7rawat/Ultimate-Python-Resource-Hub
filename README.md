@@ -7,7 +7,7 @@ The Ultimate resource hub of Python: All at one place
 ## [Python Official Documentation](https://docs.python.org/3/)
 
 ## Contributing
-Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub/blob/master/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub/blob/master/CODE-OF-CONDUCT.md) for details.
+Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub/blob/master/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub/blob/master/CODE-OF-CONDUCT.md) for details before you contribute.
 
 ## Table of Contents
 [Ultimate-Python-Resource-Hub](#Ultimate-Python-Resource-Hub) 
@@ -26,7 +26,10 @@ Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resour
 13. [Python Github Repositories](#13-Python-Github-Repositories)
 14. [Python Community and Groups](#14-Python-Community-and-Groups)
 15. [Python Devs to Follow on Twitter](#15-Python-Devs-to-Follow-on-Twitter)
-    
+
+## Requirements
+Have Python 3.7 or newer installed. You can check the version by typing `python3 --version` in your command line. You can [download the latest Python version from here](https://www.python.org/downloads/).
+
 ## 1. Python Books
 1. Automate the Boring Stuff with Python
 2. Python Crash Course
@@ -55,16 +58,44 @@ Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resour
 11. [Wing](https://wingware.com/downloads)
 
 ## 3. Coding Practice Playground for Python
-1. [Hackerrank](https://www.hackerrank.com/dashboard)
-2. [CodingBat](https://codingbat.com/python)
-3. [Leetcode](https://leetcode.com/problemset/all/?difficulty=Easy)
-4. [Codechef](https://www.codechef.com/problems/easy)
-5. [Coderbyte](https://coderbyte.com/)
-6. [Exercism](https://exercism.io/)
-7. [Practicepython](http://www.practicepython.org/)
-8. [Codewars](https://www.codewars.com/)
-9. [CodinGame](https://www.codingame.com/)
-10. Projecteular
+- [Hackerrank](https://www.hackerrank.com/dashboard)
+- [CodingBat](https://codingbat.com/python)
+- [Leetcode](https://leetcode.com/problemset/all/?difficulty=Easy)
+- [Codechef](https://www.codechef.com/problems/easy)
+- [Coderbyte](https://coderbyte.com/)
+- [Exercism](https://exercism.io/)
+- [Practicepython](http://www.practicepython.org/)
+- [Codewars](https://www.codewars.com/)
+- [CodinGame](https://www.codingame.com/)
+- [HackerEarth](http://hackerearth.com/)
+- [CodeForces](http://codeforces.com/)
+- [Topcoder](http://topcoder.com/)
+- [Project Euler](https://projecteuler.net/)
+- [LintCode](http://www.lintcode.com/en/)
+- [Kattis](https://www.kattis.com/developers)
+- [CodeAbbey](http://codeabbey.com/)
+- [Advent of Code](https://adventofcode.com/)
+- [Exercism](https://exercism.io/)
+- [Wolfram Challenges](https://challenges.wolfram.com/)
+- [Google's Coding Competitions](https://codingcompetitions.withgoogle.com/)
+- [Cyber-dojo](https://cyber-dojo.org/)
+- [CodeKata](http://codekata.com/)
+- [BinarySearch](https://binarysearch.io/)
+- [Daily Coding Problem](https://www.dailycodingproblem.com/)
+- [Daily Interview Pro](http://dailyinterviewpro.com/)
+- [AlgoDaily](https://algodaily.com/)
+- [Codility](https://codility.com/)
+- [CoderByte](https://coderbyte.com/)
+- [AlgoExpert](https://www.algoexpert.io/)
+- [CodeSignal](https://codesignal.com/)
+- [Edabit](https://edabit.com/)
+- [DevPost](https://devpost.com/)
+- [Brilliant](http://brilliant.org/)
+- [Codingame](https://www.codingame.com/)
+- [CheckiO](http://www.checkio.org/)
+- [FightCode](http://fightcodegame.com/)
+- [Kaggle](http://kaggle.com/)
+- [Rosalind](http://rosalind.info/problems/locations/)
 
 ## 4. Python Podcasts:
 1. [Talk Python to Me](https://talkpython.fm/)
@@ -110,6 +141,7 @@ Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resour
 8. [Chris Hawkes](https://www.youtube.com/user/noobtoprofessional)
 9. [Amulya's Academy](https://www.youtube.com/channel/UCIgXF0FrYJL0a6sMsRIsLvA)
 10. [Joe James](https://www.youtube.com/user/joejamesusa)
+11. [CodingEntrepreneurs](https://www.youtube.com/c/CodingEntrepreneurs)
 
 ## 8. Python Websites
 1. [w3schools.com](https://www.w3schools.com/python/)
@@ -174,7 +206,16 @@ Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resour
 1. [The Algorithms](https://github.com/TheAlgorithms/Python)
 2. [Python](https://github.com/python)
 3. [Coding Interview University](https://github.com/jwasham/coding-interview-university)
-- To be Added
+4. [Learn Python 3](https://github.com/jerry-git/learn-python3)
+4. [Python programming tutorial](https://github.com/Akuli/python-tutorial)
+4. [Python-Learning-Resources](https://github.com/CodementorIO/Python-Learning-Resources)
+4. [Awesome Python](https://github.com/vinta/awesome-python)
+4. [30 Days of Python](https://github.com/codingforentrepreneurs/30-Days-of-Python)
+4. [Coding Problems](https://github.com/MTrajK/coding-problems)
+4. [Playground and Cheatsheet](https://github.com/trekhleb/learn-python)
+4. [Full Speed Python](https://github.com/rasbt/python_referenceFull Speed Python)
+4. [Python Reference](https://github.com/rasbt/python_reference)
+4. [Python Comics](https://github.com/zhiwehu/Python-programming-exercises)
 
 ## 14. Python Community and Groups
 1. [PySlackers](https://pyslackers.com/)
@@ -184,6 +225,9 @@ Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resour
 ## 15. Python Devs to Follow on Twitter
 - To be Added
 
+## Connect with me
+
+<h3 align="center">Show your &nbsp;❤️&nbsp; & support by starring the repository!</h3>
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
