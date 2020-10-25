@@ -213,7 +213,7 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [30 Days of Python](https://github.com/codingforentrepreneurs/30-Days-of-Python)
 - [Coding Problems](https://github.com/MTrajK/coding-problems)
 - [Playground and Cheatsheet](https://github.com/trekhleb/learn-python)
-- [Full Speed Python](https://github.com/rasbt/python_referenceFull Speed Python)
+- [Full Speed Python](https://github.com/rasbt/python_reference)
 - [Python Reference](https://github.com/rasbt/python_reference)
 - [Python Comics](https://github.com/zhiwehu/Python-programming-exercises)
 
