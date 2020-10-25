@@ -106,6 +106,8 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [Test & Code](https://testandcode-com/)
 - [The Real Python Podcast](https://realpython-com/podcasts/rpp/)
 - [from python import podcast](https://www-frompythonimportpodcast-com/)
+- [Running in Production](https://runninginproduction.com/)
+- [Django Chat](https://djangochat.com/)
  
 ## Python Newsletters:
 - [Awesome Python Newsletter](https://python-libhunt-com/newsletter)
