@@ -3,7 +3,7 @@
 
 def sort_blocks():
     # First, we load the current README into memory
-    with open('README.md', 'r') as read_me_file:
+    with open('README.md', 'r', encoding='UTF8') as read_me_file:
         read_me = read_me_file.read()
 
     # Separating the 'table of contents' from the contents (blocks)
@@ -26,12 +26,12 @@ def sort_blocks():
     blocks[0] = inner_blocks
     final_README = table_of_contents + '- - -' + ''.join(blocks)
 
-    with open('README.md', 'w+') as sorted_file:
+    with open('README.md', 'w+', encoding='UTF8') as sorted_file:
         sorted_file.write(final_README)
 
 def main():
     # First, we load the current README into memory as an array of lines
-    with open('README.md', 'r') as read_me_file:
+    with open('README.md', 'r', encoding='UTF8') as read_me_file:
         read_me = read_me_file.readlines()
 
     # Then we cluster the lines together as blocks
@@ -44,7 +44,7 @@ def main():
         s_line = line.lstrip()
         indent = len(line) - len(s_line)
 
-        if any([s_line.startswith(s) for s in ['* [', '- [']]):
+        if s_line.startswith('-'):
             if indent == last_indent:
                 blocks[-1].append(line)
             else:
@@ -54,7 +54,7 @@ def main():
             blocks.append([line])
             last_indent = None
 
-    with open('README.md', 'w+') as sorted_file:
+    with open('README.md', 'w+', encoding='UTF8') as sorted_file:
         # Then all of the blocks are sorted individually
         blocks = [
             ''.join(sorted(block, key=str.lower)) for block in blocks
