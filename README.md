@@ -226,8 +226,11 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - To be Added
 
 ## Connect with me
+Hi, I am [Ayushi Rawat](https://ayushirawat.com/), a Software Developer and a YouTuber who likes to write Technical Blogs and contribute to Open Source. You can connect with me and follow my work at:
+[Twitter](https://twitter.com/ayushi7rawat) | [YouTube](https://youtube.com/ayushirawat) | [LinkedIn](https://www.linkedin.com/in/ayushi7rawat/) 
 
-<h3 align="center">Show your &nbsp;❤️&nbsp; & support by starring the repository!</h3>
+Join my [Telegram Channel](https://t.me/rawatayushi) | [Discord server]()
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
+<h3 align="center">Show your &nbsp;❤️&nbsp; & support by starring the repository!</h3>
