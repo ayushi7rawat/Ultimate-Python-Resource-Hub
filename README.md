@@ -11,53 +11,53 @@ Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resour
 
 ## Table of Contents
 [Ultimate-Python-Resource-Hub](#Ultimate-Python-Resource-Hub) 
-1. [Python Books](#1-Python-Books)
-2. [Python IDEs](#2-Python-IDEs)
-3. [Coding Practice Playground for Python](#3-Coding-Practice-Playground-for-Python)
-4. [Python Podcasts](#4-Python-Podcasts)
-5. [Python Newsletters](#5-Python-Newsletters)
-6. [Free Hosting Platforms for Python](#6-Free-Hosting-Platforms-for-Python)
-7. [Python YouTube channels](#7-Python-YouTube-channels)
-8. [Python Websites](#8-Python-Websites)
-9. [Python Courses-Video Tutorials](#9-Python-Courses-Video-Tutorials)
-10. [Technical Blogging Platforms](#10-Technical-Blogging-Platforms)
-11. [Python Mobile Applications](#11-Python-Mobile-Applications)
-12. [Python Libraries for GUI Development](#12-Python-Libraries-for-GUI-Development)
-13. [Python Github Repositories](#13-Python-Github-Repositories)
-14. [Python Community and Groups](#14-Python-Community-and-Groups)
-15. [Python Devs to Follow on Twitter](#15-Python-Devs-to-Follow-on-Twitter)
+- [Python Books](#Python-Books)
+- [Python IDEs](#Python-IDEs)
+- [Coding Practice Playground for Python](#Coding-Practice-Playground-for-Python)
+- [Python Podcasts](#Python-Podcasts)
+- [Python Newsletters](#Python-Newsletters)
+- [Free Hosting Platforms for Python](#Free-Hosting-Platforms-for-Python)
+- [Python YouTube channels](#Python-YouTube-channels)
+- [Python Websites](#Python-Websites)
+- [Python Courses-Video Tutorials](#Python-Courses-Video-Tutorials)
+- [Technical Blogging Platforms](#Technical-Blogging-Platforms)
+- [Python Mobile Applications](#Python-Mobile-Applications)
+- [Python Libraries for GUI Development](#Python-Libraries-for-GUI-Development)
+- [Python Github Repositories](#Python-Github-Repositories)
+- [Python Community and Groups](#Python-Community-and-Groups)
+- [Python Devs to Follow on Twitter](#Python-Devs-to-Follow-on-Twitter)
 
 ## Requirements
 Have Python 3.7 or newer installed. You can check the version by typing `python3 --version` in your command line. You can [download the latest Python version from here](https://www.python.org/downloads/).
 
-## 1. Python Books
-1. Automate the Boring Stuff with Python
-2. Python Crash Course
-3. Python Cookbook
-4. Headfirst Python
-5. Learn Python the Hard Way
-6. How to think like a computer scientist
-7. Think Python
-8. Python Tricks by Dan Bader
-9. Dive into Python
-10. Fluent Python
-11. [A byte of Python](https://python.swaroopch.com/) by Swaroop
-12. [Python for Everybody](https://www.py4e.com/book.php)
+## Python Books
+- Automate the Boring Stuff with Python
+- Python Crash Course
+- Python Cookbook
+- Headfirst Python
+- Learn Python the Hard Way
+- How to think like a computer scientist
+- Think Python
+- Python Tricks by Dan Bader
+- Dive into Python
+- Fluent Python
+- [A byte of Python](https://python-swaroopch-com/) by Swaroop
+- [Python for Everybody](https://www-py4e-com/book-php)
 
-## 2. Python IDEs
-1. [Jupyter Notebook](https://jupyter.org/install)
-2. [Visual Studio Code](https://code.visualstudio.com/download)
-3. [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)
-4. [Atom](https://atom.io/)
-5. [Sublime Text](https://www.sublimetext.com/3)
-6. [Spyder](https://www.spyder-ide.org/)
-7. [GNU Emacs](https://www.gnu.org/software/emacs/download.html)
-8. [Vi / Vim](https://www.vim.org/)
-9. [Pydev](https://www.pydev.org/download.html)
-10. [Thonny](https://thonny.org/)
-11. [Wing](https://wingware.com/downloads)
+## Python IDEs
+- [Jupyter Notebook](https://jupyter-org/install)
+- [Visual Studio Code](https://code-visualstudio-com/download)
+- [PyCharm](https://www-jetbrains-com/pycharm/download/#section=windows)
+- [Atom](https://atom-io/)
+- [Sublime Text](https://www-sublimetext-com/3)
+- [Spyder](https://www-spyder-ide-org/)
+- [GNU Emacs](https://www-gnu-org/software/emacs/download-html)
+- [Vi / Vim](https://www-vim-org/)
+- [Pydev](https://www-pydev-org/download-html)
+- [Thonny](https://thonny-org/)
+- [Wing](https://wingware-com/downloads)
 
-## 3. Coding Practice Playground for Python
+## Coding Practice Playground for Python
 - [Hackerrank](https://www.hackerrank.com/dashboard)
 - [CodingBat](https://codingbat.com/python)
 - [Leetcode](https://leetcode.com/problemset/all/?difficulty=Easy)
@@ -97,132 +97,132 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [Kaggle](http://kaggle.com/)
 - [Rosalind](http://rosalind.info/problems/locations/)
 
-## 4. Python Podcasts:
-1. [Talk Python to Me](https://talkpython.fm/)
-2. [Python Bytes](https://pythonbytes.fm/)
-3. [Teaching Python](https://www.teachingpython.fm/)
-4. [Podcast.__init__ ](https://www.pythonpodcast.com/)
-5. [Radio Free Python](http://radiofreepython.com/)
-6. [Test & Code](https://testandcode.com/)
-7. [The Real Python Podcast](https://realpython.com/podcasts/rpp/)
-8. [from python import podcast](https://www.frompythonimportpodcast.com/)
+## Python Podcasts:
+- [Talk Python to Me](https://talkpython-fm/)
+- [Python Bytes](https://pythonbytes-fm/)
+- [Teaching Python](https://www-teachingpython-fm/)
+- [Podcast-__init__ ](https://www-pythonpodcast-com/)
+- [Radio Free Python](http://radiofreepython-com/)
+- [Test & Code](https://testandcode-com/)
+- [The Real Python Podcast](https://realpython-com/podcasts/rpp/)
+- [from python import podcast](https://www-frompythonimportpodcast-com/)
  
-## 5. Python Newsletters:
-1. [Awesome Python Newsletter](https://python.libhunt.com/newsletter)
-2. [Python Weekly](https://www.pythonweekly.com/)
-3. [Python Email Academy](https://inboxreads.co/n/python-email-academy)
-4. [Dan's Python Newsletter](https://dbader.org/newsletter)
-5. [The Real Python Newsletter](https://realpython.com/newsletter/)
-6. [Pycoder's Weekly](https://pycoders.com/)
-7. [Become a Better Developer](https://lerner.co.il/newsletter/)
-8. [Import Python](https://importpython.com/newsletter/)
-9. [PYnative Newsletter](https://pynative.com/newsletter/)
-10. [Bite Python](http://newsletter.pythontips.com/)
-11. [Python Puzzles ](https://app.finxter.com/learn/computer/science/)
-12. [Python on Microcontrollers](https://www.adafruitdaily.com/category/circuitpython/)
+## Python Newsletters:
+- [Awesome Python Newsletter](https://python-libhunt-com/newsletter)
+- [Python Weekly](https://www-pythonweekly-com/)
+- [Python Email Academy](https://inboxreads-co/n/python-email-academy)
+- [Dan's Python Newsletter](https://dbader-org/newsletter)
+- [The Real Python Newsletter](https://realpython-com/newsletter/)
+- [Pycoder's Weekly](https://pycoders-com/)
+- [Become a Better Developer](https://lerner-co-il/newsletter/)
+- [Import Python](https://importpython-com/newsletter/)
+- [PYnative Newsletter](https://pynative-com/newsletter/)
+- [Bite Python](http://newsletter-pythontips-com/)
+- [Python Puzzles ](https://app-finxter-com/learn/computer/science/)
+- [Python on Microcontrollers](https://www-adafruitdaily-com/category/circuitpython/)
  
-## 6. Free Hosting Platforms for Python
-1. [AWS](https://aws.amazon.com/)
-2. [Render](https://render.com/)
-3. [PythonAnywhere](https://www.pythonanywhere.com/?affiliate_id=0048f655)
-4. [Heroku](https://www.heroku.com/)
-5. [Google Cloud](https://cloud.google.com/)
-6. [FastComet](https://www.fastcomet.com/)
-7. [NodeChef](https://www.nodechef.com/)
+## Free Hosting Platforms for Python
+- [AWS](https://aws-amazon-com/)
+- [Render](https://render-com/)
+- [PythonAnywhere](https://www-pythonanywhere-com/?affiliate_id=0048f655)
+- [Heroku](https://www-heroku-com/)
+- [Google Cloud](https://cloud-google-com/)
+- [FastComet](https://www-fastcomet-com/)
+- [NodeChef](https://www-nodechef-com/)
 
-## 7. Python YouTube channels
-1. [Telusko](https://www.youtube.com/user/javaboynavin)
-2. [Edureka ](https://www.youtube.com/watch?v=WGJJIrtnfpk&list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu)
-3. [Corey Schafer](https://www.youtube.com/user/schafer5)
-4. [CodeWithHarry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww)
-5. [ProgrammingKnowledge](https://www.youtube.com/watch?v=E9U-EBG8jVk&list=RDQMgTJmXAVobVk&start_radio=1)
-6. [freeCodeCamp.org](https://www.youtube.com/watch?v=rfscVS0vtbw)
-7. [TokyoEdTech](https://www.youtube.com/channel/UC2vm-0XX5RkWCXWwtBZGOXg)
-8. [Chris Hawkes](https://www.youtube.com/user/noobtoprofessional)
-9. [Amulya's Academy](https://www.youtube.com/channel/UCIgXF0FrYJL0a6sMsRIsLvA)
-10. [Joe James](https://www.youtube.com/user/joejamesusa)
-11. [CodingEntrepreneurs](https://www.youtube.com/c/CodingEntrepreneurs)
+## Python YouTube channels
+- [Telusko](https://www-youtube-com/user/javaboynavin)
+- [Edureka ](https://www-youtube-com/watch?v=WGJJIrtnfpk&list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu)
+- [Corey Schafer](https://www-youtube-com/user/schafer5)
+- [CodeWithHarry](https://www-youtube-com/channel/UCeVMnSShP_Iviwkknt83cww)
+- [ProgrammingKnowledge](https://www-youtube-com/watch?v=E9U-EBG8jVk&list=RDQMgTJmXAVobVk&start_radio=1)
+- [freeCodeCamp-org](https://www-youtube-com/watch?v=rfscVS0vtbw)
+- [TokyoEdTech](https://www-youtube-com/channel/UC2vm-0XX5RkWCXWwtBZGOXg)
+- [Chris Hawkes](https://www-youtube-com/user/noobtoprofessional)
+- [Amulya's Academy](https://www-youtube-com/channel/UCIgXF0FrYJL0a6sMsRIsLvA)
+- [Joe James](https://www-youtube-com/user/joejamesusa)
+- [CodingEntrepreneurs](https://www-youtube-com/c/CodingEntrepreneurs)
 
-## 8. Python Websites
-1. [w3schools.com](https://www.w3schools.com/python/)
-2. [TutorialsPoint](https://www.tutorialspoint.com/python/index.htm)
-3. [Geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language/?source=google&medium=cpc&device=c&keyword=for%20loop%20python&matchtype=b&gclid=Cj0KCQjwnqH7BRDdARIsACTSAdvzWcMAnB8arukOOwyBVvJ6R3vbh7XQmWDjRMzKA_oaLVtvDsupwL0aAsDlEALw_wcB)
-4. [Google's Python Class](https://developers.google.com/edu/python)
-5. [Programiz](https://www.programiz.com/python-programming)
-6. [Kaggle](https://www.kaggle.com/learn/python)
-7. [Progate](https://progate.com/languages/python)
-8. [Sololearn](https://www.sololearn.com/)
-9. [ Codecademy](https://www.codecademy.com/) 
-10. [Codewars](https://www.codewars.com/)
-11. [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
-12. [PythonForBeginners](https://www.pythonforbeginners.com/basics/python-pip-usage)
-13. [Hitchhiker’s Guide](https://docs.python-guide.org/)
-14. [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+## Python Websites
+- [w3schools-com](https://www-w3schools-com/python/)
+- [TutorialsPoint](https://www-tutorialspoint-com/python/index-htm)
+- [Geeksforgeeks](https://www-geeksforgeeks-org/python-programming-language/?source=google&medium=cpc&device=c&keyword=for%20loop%20python&matchtype=b&gclid=Cj0KCQjwnqH7BRDdARIsACTSAdvzWcMAnB8arukOOwyBVvJ6R3vbh7XQmWDjRMzKA_oaLVtvDsupwL0aAsDlEALw_wcB)
+- [Google's Python Class](https://developers-google-com/edu/python)
+- [Programiz](https://www-programiz-com/python-programming)
+- [Kaggle](https://www-kaggle-com/learn/python)
+- [Progate](https://progate-com/languages/python)
+- [Sololearn](https://www-sololearn-com/)
+- [ Codecademy](https://www-codecademy-com/) 
+- [Codewars](https://www-codewars-com/)
+- [Learn X in Y minutes](https://learnxinyminutes-com/docs/python/)
+- [PythonForBeginners](https://www-pythonforbeginners-com/basics/python-pip-usage)
+- [Hitchhiker’s Guide](https://docs-python-guide-org/)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff-com/)
 
-## 9. Python Courses-Video Tutorials
-1. Python for absolute beginners (Udemy)
-2. Python for Everybody (Coursera)
-3. Complete Python Bootcamp: Go From Zero to Hero (Udemy)
-4. Complete Python Masterclass (Udemy)
-5. Learn Python 3 (Codecademy)
-6. The Python Bible (Udemy)
-7. [Coursera](https://www.coursera.org/learn/python-network-data)
-8. [Udemy: Python for Absolute Beginners](https://www.udemy.com/course/python-for-absolute-beginners-u/)
-9. [pythonprogramming.net](https://pythonprogramming.net/)
-10. [Udemy Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)
-11. [Automate the Boring Stuff with Python Programming](https://www.udemy.com/course/automate/)
-12. [Linkedin Python Essential Training](https://www.linkedin.com/learning/python-essential-training-2/welcome)
-13. [Linkedin Learning Python 2](https://www.linkedin.com/learning/learning-python-2/welcome)
-14. [Udacity](https://www.udacity.com/course/introduction-to-python--ud1110)
+## Python Courses-Video Tutorials
+- Python for absolute beginners (Udemy)
+- Python for Everybody (Coursera)
+- Complete Python Bootcamp: Go From Zero to Hero (Udemy)
+- Complete Python Masterclass (Udemy)
+- Learn Python 3 (Codecademy)
+- The Python Bible (Udemy)
+- [Coursera](https://www-coursera-org/learn/python-network-data)
+- [Udemy: Python for Absolute Beginners](https://www-udemy-com/course/python-for-absolute-beginners-u/)
+- [pythonprogramming-net](https://pythonprogramming-net/)
+- [Udemy Complete Python Bootcamp](https://www-udemy-com/course/complete-python-bootcamp/)
+- [Automate the Boring Stuff with Python Programming](https://www-udemy-com/course/automate/)
+- [Linkedin Python Essential Training](https://www-linkedin-com/learning/python-essential-training-2/welcome)
+- [Linkedin Learning Python 2](https://www-linkedin-com/learning/learning-python-2/welcome)
+- [Udacity](https://www-udacity-com/course/introduction-to-python--ud1110)
 
-## 10. Technical Blogging Platforms
+## Technical Blogging Platforms
 - [Hashnode](https://hashnode.com/)
 - [Medium](https://medium.com/)
 - [Dev.to](https://dev.to/)
 
 
-## 11. Python Mobile Applications:
-1. [Sololearn](https://play.google.com/store/apps/details?id=com.sololearn.python)
-2. [Programiz](https://play.google.com/store/apps/details?id=com.programiz.learnpython)
-3. [DataCamp](https://play.google.com/store/apps/details?id=com.datacamp)
-4. Unacademy Learning App
-5. Encode
-6. Programming Hero
-7. Enki App
-8. Programming Hub
+## Python Mobile Applications:
+- [Sololearn](https://play-google-com/store/apps/details?id=com-sololearn-python)
+- [Programiz](https://play-google-com/store/apps/details?id=com-programiz-learnpython)
+- [DataCamp](https://play-google-com/store/apps/details?id=com-datacamp)
+- Unacademy Learning App
+- Encode
+- Programming Hero
+- Enki App
+- Programming Hub
 
 
-## 12. Python Libraries for GUI Development:
-1. Tkinter
-2. enaml
-3. curses
-4. Eel
-5. Flexx
-6. DearPyGui
-7. urwid
-8. Toga
+## Python Libraries for GUI Development:
+- Tkinter
+- enaml
+- curses
+- Eel
+- Flexx
+- DearPyGui
+- urwid
+- Toga
 
-## 13. Python Github Repositories  
-1. [The Algorithms](https://github.com/TheAlgorithms/Python)
-2. [Python](https://github.com/python)
-3. [Coding Interview University](https://github.com/jwasham/coding-interview-university)
-4. [Learn Python 3](https://github.com/jerry-git/learn-python3)
-4. [Python programming tutorial](https://github.com/Akuli/python-tutorial)
-4. [Python-Learning-Resources](https://github.com/CodementorIO/Python-Learning-Resources)
-4. [Awesome Python](https://github.com/vinta/awesome-python)
-4. [30 Days of Python](https://github.com/codingforentrepreneurs/30-Days-of-Python)
-4. [Coding Problems](https://github.com/MTrajK/coding-problems)
-4. [Playground and Cheatsheet](https://github.com/trekhleb/learn-python)
-4. [Full Speed Python](https://github.com/rasbt/python_referenceFull Speed Python)
-4. [Python Reference](https://github.com/rasbt/python_reference)
-4. [Python Comics](https://github.com/zhiwehu/Python-programming-exercises)
+## Python Github Repositories  
+- [The Algorithms](https://github.com/TheAlgorithms/Python)
+- [Python](https://github.com/python)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [Learn Python 3](https://github.com/jerry-git/learn-python3)
+- [Python programming tutorial](https://github.com/Akuli/python-tutorial)
+- [Python-Learning-Resources](https://github.com/CodementorIO/Python-Learning-Resources)
+- [Awesome Python](https://github.com/vinta/awesome-python)
+- [30 Days of Python](https://github.com/codingforentrepreneurs/30-Days-of-Python)
+- [Coding Problems](https://github.com/MTrajK/coding-problems)
+- [Playground and Cheatsheet](https://github.com/trekhleb/learn-python)
+- [Full Speed Python](https://github.com/rasbt/python_referenceFull Speed Python)
+- [Python Reference](https://github.com/rasbt/python_reference)
+- [Python Comics](https://github.com/zhiwehu/Python-programming-exercises)
 
-## 14. Python Community and Groups
-1. [PySlackers](https://pyslackers.com/)
-2. [r/Python](https://www.reddit.com/r/Python/)
-3. [Python Discord Server](https://discord.com/invite/python)
+## Python Community and Groups
+- [PySlackers](https://pyslackers.com/)
+- [r/Python](https://www.reddit.com/r/Python/)
+- [Python Discord Server](https://discord.com/invite/python)
 
-## 15. Python Devs to Follow on Twitter
+## Python Devs to Follow on Twitter
 - To be Added
 
 ## Connect with me
