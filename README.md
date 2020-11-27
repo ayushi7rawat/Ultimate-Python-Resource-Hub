@@ -117,7 +117,7 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - The Python Bible (Udemy)
 
 ## Python Devs to Follow on Twitter
-- To be Added
+- [Justin Mitchel](https://twitter.com/JustinMitchel)
 
 ## Python Github Repositories  
 - [30 Days of Python](https://github.com/codingforentrepreneurs/30-Days-of-Python)
