@@ -174,6 +174,14 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - PyOpenGL
 - Pyglet
 
+## Python Libraries for Data Science:
+- TensorFlow
+- NumPy
+- SciPy
+- Pandas
+- Matplotlib
+
+
 ## Python Mobile Applications:
 - [DataCamp](https://play-google-com/store/apps/details?id=com-datacamp)
 - [Programiz](https://play-google-com/store/apps/details?id=com-programiz-learnpython)
