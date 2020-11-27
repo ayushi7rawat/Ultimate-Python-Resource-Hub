@@ -222,6 +222,7 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [TutorialsPoint](https://www-tutorialspoint-com/python/index-htm)
 - [w3schools-com](https://www-w3schools-com/python/)
 - [Full Stack Python](https://www.fullstackpython.com/)
+- [Real Python](https://realpython.com/)
 
 ## Python YouTube channels
 - [Amulya's Academy](https://www-youtube-com/channel/UCIgXF0FrYJL0a6sMsRIsLvA)
