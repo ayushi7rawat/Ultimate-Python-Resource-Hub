@@ -169,7 +169,7 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - FastAPI
 - Pyramid
 
-## Python Libraries for GUI Development:
+## Python Libraries for Game Development:
 - Pygame
 - PyOpenGL
 - Pyglet
