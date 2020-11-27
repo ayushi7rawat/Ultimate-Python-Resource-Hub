@@ -235,6 +235,8 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [ProgrammingKnowledge](https://www-youtube-com/watch?v=E9U-EBG8jVk&list=RDQMgTJmXAVobVk&start_radio=1)
 - [Telusko](https://www-youtube-com/user/javaboynavin)
 - [TokyoEdTech](https://www-youtube-com/channel/UC2vm-0XX5RkWCXWwtBZGOXg)
+- [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+- [Real Python](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
 
 ## Technical Blogging Platforms
 - [Dev.to](https://dev.to/)
