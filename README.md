@@ -115,6 +115,7 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - Python for absolute beginners (Udemy)
 - Python for Everybody (Coursera)
 - The Python Bible (Udemy)
+- [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code/)
 
 ## Python Devs to Follow on Twitter
 - [Justin Mitchel](https://twitter.com/JustinMitchel)
