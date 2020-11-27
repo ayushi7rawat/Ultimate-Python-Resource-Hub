@@ -160,6 +160,13 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - PySimpleGUI
 - Kivy
 
+## Python Frameworks for Web Development:
+- Django
+- Flask
+- web2py
+- Bottle
+- FastAPI
+
 ## Python Mobile Applications:
 - [DataCamp](https://play-google-com/store/apps/details?id=com-datacamp)
 - [Programiz](https://play-google-com/store/apps/details?id=com-programiz-learnpython)
