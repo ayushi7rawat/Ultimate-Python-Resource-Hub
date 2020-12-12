@@ -71,7 +71,8 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [Rosalind](http://rosalind.info/problems/locations/)
 - [Topcoder](http://topcoder.com/)
 - [Wolfram Challenges](https://challenges.wolfram.com/)
-
+- [spoj](https://www.spoj.com/)
+- [urionlinejudge](https://www.urionlinejudge.com.br/)
 ## Free Hosting Platforms for Python
 - [AWS](https://aws-amazon-com/)
 - [FastComet](https://www-fastcomet-com/)
