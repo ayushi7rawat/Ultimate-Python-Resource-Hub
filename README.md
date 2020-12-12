@@ -229,6 +229,12 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [Hashnode](https://hashnode.com/)
 - [Medium](https://medium.com/)
 
+## Data Structures and Algorithms
+-  [freecodecamp.org](https://medium.freecodecamp.org/i-built-an-app-that-makes-learning-algorithms-and-data-structures-way-more-fun-46fbb8afacaf)
+- [ideserve]( http://www.ideserve.co.in/)
+- [data-structures-and-algorithms-in-python](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
+
+
 
 # Connect with me
 Hi, I am [Ayushi Rawat](https://ayushirawat.com/), a Software Developer and a YouTuber who likes to write Technical Blogs and contribute to Open Source. You can connect with me and follow my work at:
