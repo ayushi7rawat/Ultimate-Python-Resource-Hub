@@ -2,31 +2,8 @@
 [![](https://img.shields.io/badge/Author-AyushiRawat-green.svg)](https://github.com/ayushi7rawat)
 ![](https://img.shields.io/badge/Programming_Language-Python-blue.svg)
 [![](https://img.shields.io/github/license/ayushi7rawat/Ultimate-Python-Resource-Hub.svg?style=plastic)](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub)
-[![GitHub issues](https://img.shields.io/github/issues/ayushi7rawat/Ultimate-Python-Resource-Hub.svg)](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub/issues) [![GitHub forks](https://img.shields.io/github/forks/Kushal997-das/THE-SPARKS-FOUNDATION.svg)](https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/network) [![GitHub stars](https://img.shields.io/github/stars/Kushal997-das/THE-SPARKS-FOUNDATION.svg)](https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/stargazers)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/Kushal997-das/THE-SPARKS-FOUNDATION)](https://www.codacy.com/app/Kushal997-das/THE-SPARKS-FOUNDATION)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/30ee6772bb264a689a2604f5cdb0437b)](https://www.codacy.com/app/secdev/scapy)
-<a href="https://github.com/chandan-reddy-k" aria-label="Follow @Kushal997-das on GitHub"><img  src="https://img.shields.io/badge/Follow👉-@Kushal997-das-green?style=for-the-badge"  />
-</a>
-<br><br>
-
-
-
-[![Build Status](https://travis-ci.org/googlemaps/google-maps-services-python.svg?branch=master)](https://travis-ci.org/googlemaps/google-maps-services-python)
-[![codecov](https://codecov.io/gh/googlemaps/google-maps-services-python/branch/master/graph/badge.svg)](https://codecov.io/gh/googlemaps/google-maps-services-python)
-[![PyPI version](https://badge.fury.io/py/googlemaps.svg)](https://badge.fury.io/py/googlemaps)
-![PyPI - Downloads](https://img.shields.io/pypi/dd/googlemaps)
-![GitHub contributors](https://img.shields.io/github/contributors/googlemaps/google-maps-services-python)
-
-
-
-
-
-
-
-
-
-
-
+[![GitHub issues](https://img.shields.io/github/issues/ayushi7rawat/Ultimate-Python-Resource-Hub.svg)](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub/issues) [![GitHub forks](https://img.shields.io/github/forks/ayushi7rawat/Ultimate-Python-Resource-Hub.svg)](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub/network) [![GitHub stars](https://img.shields.io/github/stars/ayushi7rawat/Ultimate-Python-Resource-Hub.svg)](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub/stargazers)
+![GitHub contributors](https://img.shields.io/github/contributors/googlemaps/google-maps-services-python) <br><br>
 # [Ultimate-Python-Resource-Hub](https://ayushirawat.com/the-ultimate-python-resource-hub)
 
 The Ultimate resource hub of Python: All at one place
