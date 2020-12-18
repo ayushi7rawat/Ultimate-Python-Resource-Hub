@@ -115,9 +115,10 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - Python for absolute beginners (Udemy)
 - Python for Everybody (Coursera)
 - The Python Bible (Udemy)
+- [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code/)
 
 ## Python Devs to Follow on Twitter
-- To be Added
+- [Justin Mitchel](https://twitter.com/JustinMitchel)
 
 ## Python Github Repositories  
 - [30 Days of Python](https://github.com/codingforentrepreneurs/30-Days-of-Python)
@@ -156,6 +157,31 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - Tkinter
 - Toga
 - urwid
+- PyQT
+- PySimpleGUI
+- Kivy
+
+## Python Frameworks for Web Development:
+- Django
+- Flask
+- web2py
+- Bottle
+- FastAPI
+- Pyramid
+
+## Python Libraries for Game Development:
+- Pygame
+- PyOpenGL
+- Pyglet
+
+## Python Libraries for Data Science:
+- TensorFlow
+- NumPy
+- SciPy
+- Pandas
+- Matplotlib
+- Seaborn
+- StatsModels
 
 ## Python Mobile Applications:
 - [DataCamp](https://play.google.com/store/apps/details?id=com-datacamp)
@@ -195,33 +221,38 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [The Real Python Podcast](https://realpython.com/podcasts/rpp/)
  
 ## Python Websites
-- [ Codecademy](https://www.codecademy.com/) 
-- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-- [Codewars](https://www.codewars.com/)
-- [Geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language/?source=google&medium=cpc&device=c&keyword=for%20loop%20python&matchtype=b&gclid=Cj0KCQjwnqH7BRDdARIsACTSAdvzWcMAnB8arukOOwyBVvJ6R3vbh7XQmWDjRMzKA_oaLVtvDsupwL0aAsDlEALw_wcB)
-- [Google's Python Class](https://developers.google.com/edu/python)
-- [Hitchhiker’s Guide](https://docs.python-guide.org/)
-- [Kaggle](https://www.kaggle.com/learn/python)
-- [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
-- [Progate](https://progate.com/languages/python)
-- [Programiz](https://www.programiz.com/python-programming)
-- [PythonForBeginners](https://www.pythonforbeginners.com/basics/python-pip-usage)
-- [Sololearn](https://www.sololearn.com/)
-- [TutorialsPoint](https://www.tutorialspoint.com/python/index.htm)
-- [w3schools](https://www.w3schools.com/python/)
+- [ Codecademy](https://www-codecademy-com/) 
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff-com/)
+- [Codewars](https://www-codewars-com/)
+- [Geeksforgeeks](https://www-geeksforgeeks-org/python-programming-language/?source=google&medium=cpc&device=c&keyword=for%20loop%20python&matchtype=b&gclid=Cj0KCQjwnqH7BRDdARIsACTSAdvzWcMAnB8arukOOwyBVvJ6R3vbh7XQmWDjRMzKA_oaLVtvDsupwL0aAsDlEALw_wcB)
+- [Google's Python Class](https://developers-google-com/edu/python)
+- [Hitchhiker’s Guide](https://docs-python-guide-org/)
+- [Kaggle](https://www-kaggle-com/learn/python)
+- [Learn X in Y minutes](https://learnxinyminutes-com/docs/python/)
+- [Progate](https://progate-com/languages/python)
+- [Programiz](https://www-programiz-com/python-programming)
+- [PythonForBeginners](https://www-pythonforbeginners-com/basics/python-pip-usage)
+- [Sololearn](https://www-sololearn-com/)
+- [TutorialsPoint](https://www-tutorialspoint-com/python/index-htm)
+- [w3schools-com](https://www-w3schools-com/python/)
+- [Full Stack Python](https://www.fullstackpython.com/)
+- [Real Python](https://realpython.com/)
 
 ## Python YouTube channels
-- [Amulya's Academy](https://www.youtube.com/channel/UCIgXF0FrYJL0a6sMsRIsLvA)
-- [Chris Hawkes](https://www.youtube.com/user/noobtoprofessional)
-- [CodeWithHarry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww)
-- [CodingEntrepreneurs](https://www.youtube.com/c/CodingEntrepreneurs)
-- [Corey Schafer](https://www.youtube.com/user/schafer5)
-- [Edureka ](https://www.youtube.com/watch?v=WGJJIrtnfpk&list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu)
-- [freeCodeCamp-org](https://www.youtube.com/watch?v=rfscVS0vtbw)
-- [Joe James](https://www.youtube.com/user/joejamesusa)
-- [ProgrammingKnowledge](https://www.youtube.com/watch?v=E9U-EBG8jVk&list=RDQMgTJmXAVobVk&start_radio=1)
-- [Telusko](https://www.youtube.com/user/javaboynavin)
-- [TokyoEdTech](https://www.youtube.com/channel/UC2vm-0XX5RkWCXWwtBZGOXg)
+- [Amulya's Academy](https://www-youtube-com/channel/UCIgXF0FrYJL0a6sMsRIsLvA)
+- [Chris Hawkes](https://www-youtube-com/user/noobtoprofessional)
+- [CodeWithHarry](https://www-youtube-com/channel/UCeVMnSShP_Iviwkknt83cww)
+- [CodingEntrepreneurs](https://www-youtube-com/c/CodingEntrepreneurs)
+- [Corey Schafer](https://www-youtube-com/user/schafer5)
+- [Edureka ](https://www-youtube-com/watch?v=WGJJIrtnfpk&list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu)
+- [freeCodeCamp-org](https://www-youtube-com/watch?v=rfscVS0vtbw)
+- [Joe James](https://www-youtube-com/user/joejamesusa)
+- [ProgrammingKnowledge](https://www-youtube-com/watch?v=E9U-EBG8jVk&list=RDQMgTJmXAVobVk&start_radio=1)
+- [Telusko](https://www-youtube-com/user/javaboynavin)
+- [TokyoEdTech](https://www-youtube-com/channel/UC2vm-0XX5RkWCXWwtBZGOXg)
+- [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+- [Real Python](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
+
 
 ## Technical Blogging Platforms
 - [Dev.to](https://dev.to/)
