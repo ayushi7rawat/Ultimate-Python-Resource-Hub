@@ -73,17 +73,17 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [Wolfram Challenges](https://challenges.wolfram.com/)
 
 ## Free Hosting Platforms for Python
-- [AWS](https://aws-amazon-com/)
-- [FastComet](https://www-fastcomet-com/)
-- [Google Cloud](https://cloud-google-com/)
-- [Heroku](https://www-heroku-com/)
-- [NodeChef](https://www-nodechef-com/)
-- [PythonAnywhere](https://www-pythonanywhere-com/?affiliate_id=0048f655)
-- [Render](https://render-com/)
+- [AWS](https://aws.amazon.com/)
+- [FastComet](https://www.fastcomet.com/)
+- [Google Cloud](https://cloud.google.com/)
+- [Heroku](https://www.heroku.com/)
+- [NodeChef](https://www.nodechef.com/)
+- [PythonAnywhere](https://www.pythonanywhere.com/?affiliate_id=0048f655)
+- [Render](https://render.com/)
 
 ## Python Books
-- [A byte of Python](https://python-swaroopch-com/) by Swaroop
-- [Python for Everybody](https://www-py4e-com/book-php)
+- [A byte of Python](https://python.swaroopch.com/) by Swaroop
+- [Python for Everybody](https://www.py4e.com/book.php)
 - Automate the Boring Stuff with Python
 - Dive into Python
 - Fluent Python
@@ -101,14 +101,14 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [r/Python](https://www.reddit.com/r/Python/)
 
 ## Python Courses-Video Tutorials
-- [Automate the Boring Stuff with Python Programming](https://www-udemy-com/course/automate/)
-- [Coursera](https://www-coursera-org/learn/python-network-data)
-- [Linkedin Learning Python 2](https://www-linkedin-com/learning/learning-python-2/welcome)
-- [Linkedin Python Essential Training](https://www-linkedin-com/learning/python-essential-training-2/welcome)
-- [pythonprogramming-net](https://pythonprogramming-net/)
-- [Udacity](https://www-udacity-com/course/introduction-to-python--ud1110)
-- [Udemy Complete Python Bootcamp](https://www-udemy-com/course/complete-python-bootcamp/)
-- [Udemy: Python for Absolute Beginners](https://www-udemy-com/course/python-for-absolute-beginners-u/)
+- [Automate the Boring Stuff with Python Programming](https://www.udemy.com/course/automate/)
+- [Coursera](https://www.coursera.org/learn/python-network-data)
+- [Linkedin Learning Python 2](https://www.linkedin.com/learning/learning-python-2/welcome)
+- [Linkedin Python Essential Training](https://www.linkedin.com/learning/python-essential-training-2/welcome)
+- [pythonprogramming-net](https://pythonprogramming.net/)
+- [Udacity](https://www.udacity.com/course/introduction-to-python--ud1110)
+- [Udemy Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)
+- [Udemy: Python for Absolute Beginners](https://www.udemy.com/course/python-for-absolute-beginners-u/)
 - Complete Python Bootcamp: Go From Zero to Hero (Udemy)
 - Complete Python Masterclass (Udemy)
 - Learn Python 3 (Codecademy)
@@ -136,17 +136,17 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [The Algorithms](https://github.com/TheAlgorithms/Python)
 
 ## Python IDEs
-- [Atom](https://atom-io/)
-- [GNU Emacs](https://www-gnu-org/software/emacs/download-html)
-- [Jupyter Notebook](https://jupyter-org/install)
-- [PyCharm](https://www-jetbrains-com/pycharm/download/#section=windows)
-- [Pydev](https://www-pydev-org/download-html)
-- [Spyder](https://www-spyder-ide-org/)
-- [Sublime Text](https://www-sublimetext-com/3)
-- [Thonny](https://thonny-org/)
-- [Vi / Vim](https://www-vim-org/)
-- [Visual Studio Code](https://code-visualstudio-com/download)
-- [Wing](https://wingware-com/downloads)
+- [Atom](https://atom.io/)
+- [GNU Emacs](https://www.gnu.org/software/emacs/download.html)
+- [Jupyter Notebook](https://jupyter.org/install)
+- [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)
+- [Pydev](https://www.pydev.org/download.html)
+- [Spyder](https://www.spyder-ide.org/)
+- [Sublime Text](https://www.sublimetext.com/3)
+- [Thonny](https://thonny.org/)
+- [Vi / Vim](https://www.vim.org/)
+- [Visual Studio Code](https://code.visualstudio.com/download)
+- [Wing](https://wingware.com/downloads)
 
 ## Python Libraries for GUI Development:
 - curses
@@ -184,9 +184,9 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - StatsModels
 
 ## Python Mobile Applications:
-- [DataCamp](https://play-google-com/store/apps/details?id=com-datacamp)
-- [Programiz](https://play-google-com/store/apps/details?id=com-programiz-learnpython)
-- [Sololearn](https://play-google-com/store/apps/details?id=com-sololearn-python)
+- [DataCamp](https://play.google.com/store/apps/details?id=com-datacamp)
+- [Programiz](https://play.google.com/store/apps/details?id=com-programiz-learnpython)
+- [Sololearn](https://play.google.com/store/apps/details?id=com-sololearn-python)
 - Encode
 - Enki App
 - Programming Hero
@@ -195,30 +195,30 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 
 
 ## Python Newsletters:
-- [Awesome Python Newsletter](https://python-libhunt-com/newsletter)
-- [Become a Better Developer](https://lerner-co-il/newsletter/)
-- [Bite Python](http://newsletter-pythontips-com/)
-- [Dan's Python Newsletter](https://dbader-org/newsletter)
-- [Import Python](https://importpython-com/newsletter/)
-- [Pycoder's Weekly](https://pycoders-com/)
-- [PYnative Newsletter](https://pynative-com/newsletter/)
-- [Python Email Academy](https://inboxreads-co/n/python-email-academy)
-- [Python on Microcontrollers](https://www-adafruitdaily-com/category/circuitpython/)
-- [Python Puzzles ](https://app-finxter-com/learn/computer/science/)
-- [Python Weekly](https://www-pythonweekly-com/)
-- [The Real Python Newsletter](https://realpython-com/newsletter/)
+- [Awesome Python Newsletter](https://python.libhunt.com/newsletter)
+- [Become a Better Developer](https://lerner.co.il/newsletter/)
+- [Bite Python](http://newsletter.pythontips.com/)
+- [Dan's Python Newsletter](https://dbader.org/newsletter)
+- [Import Python](https://importpython.com/newsletter/)
+- [Pycoder's Weekly](https://pycoders.com/)
+- [PYnative Newsletter](https://pynative.com/newsletter/)
+- [Python Email Academy](https://inboxreads.co/n/python-email-academy)
+- [Python on Microcontrollers](https://www.adafruitdaily.com/category/circuitpython/)
+- [Python Puzzles ](https://app.finxter.com/learn/computer/science/)
+- [Python Weekly](https://www.pythonweekly.com/)
+- [The Real Python Newsletter](https://realpython.com/newsletter/)
  
 ## Python Podcasts:
 - [Django Chat](https://djangochat.com/)
-- [from python import podcast](https://www-frompythonimportpodcast-com/)
-- [Podcast-__init__ ](https://www-pythonpodcast-com/)
-- [Python Bytes](https://pythonbytes-fm/)
-- [Radio Free Python](http://radiofreepython-com/)
+- [from python import podcast](https://www.frompythonimportpodcast.com/)
+- [Podcast-__init__ ](https://www.pythonpodcast.com/)
+- [Python Bytes](https://pythonbytes.fm/)
+- [Radio Free Python](http://radiofreepython.com/)
 - [Running in Production](https://runninginproduction.com/)
-- [Talk Python to Me](https://talkpython-fm/)
-- [Teaching Python](https://www-teachingpython-fm/)
-- [Test & Code](https://testandcode-com/)
-- [The Real Python Podcast](https://realpython-com/podcasts/rpp/)
+- [Talk Python to Me](https://talkpython.fm/)
+- [Teaching Python](https://www.teachingpython.fm/)
+- [Test & Code](https://testandcode.com/)
+- [The Real Python Podcast](https://realpython.com/podcasts/rpp/)
  
 ## Python Websites
 - [ Codecademy](https://www-codecademy-com/) 
@@ -252,6 +252,7 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [TokyoEdTech](https://www-youtube-com/channel/UC2vm-0XX5RkWCXWwtBZGOXg)
 - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 - [Real Python](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
+
 
 ## Technical Blogging Platforms
 - [Dev.to](https://dev.to/)
