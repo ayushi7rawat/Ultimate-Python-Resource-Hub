@@ -135,6 +135,7 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [Python-Learning-Resources](https://github.com/CodementorIO/Python-Learning-Resources)
 - [Python](https://github.com/python)
 - [The Algorithms](https://github.com/TheAlgorithms/Python)
+- [Hackerrank_Python](https://github.com/Kushal997-das/Hackerrank)
 
 ## Python IDEs
 - [Atom](https://atom.io/)
