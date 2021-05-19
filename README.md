@@ -73,6 +73,7 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [Wolfram Challenges](https://challenges.wolfram.com/)
 - [spoj](https://www.spoj.com/)
 - [urionlinejudge](https://www.urionlinejudge.com.br/)
+
 ## Free Hosting Platforms for Python
 - [AWS](https://aws.amazon.com/)
 - [FastComet](https://www.fastcomet.com/)
@@ -107,15 +108,15 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [Linkedin Learning Python 2](https://www.linkedin.com/learning/learning-python-2/welcome)
 - [Linkedin Python Essential Training](https://www.linkedin.com/learning/python-essential-training-2/welcome)
 - [pythonprogramming-net](https://pythonprogramming.net/)
-- [Udacity](https://www.udacity.com/course/introduction-to-python--ud1110)
-- [Udemy Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)
+- [Udacity: Introduction to Python](https://www.udacity.com/course/introduction-to-python--ud1110)
+- [Udemy: Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)
 - [Udemy: Python for Absolute Beginners](https://www.udemy.com/course/python-for-absolute-beginners-u/)
-- Complete Python Bootcamp: Go From Zero to Hero (Udemy)
-- Complete Python Masterclass (Udemy)
-- Learn Python 3 (Codecademy)
-- Python for absolute beginners (Udemy)
-- Python for Everybody (Coursera)
-- The Python Bible (Udemy)
+- [Complete Python Bootcamp: Go From Zero to Hero (Udemy)](https://www.udemy.com/course/complete-python-bootcamp/)
+- [Complete Python Masterclass (Udemy)](https://www.udemy.com/course/python-masterclass-course/)
+- [Learn Python 3 (Codecademy)](https://www.codecademy.com/learn/learn-python-3)
+- [Python for absolute beginners (Udemy)](https://www.udemy.com/course/python-for-absolute-beginners-u/)
+- [Python for Everybody (Coursera)](https://www.coursera.org/specializations/python)
+- [The Python Bible (Udemy)](https://www.udemy.com/course/the-python-bible/)
 - [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code/)
 
 ## Python Devs to Follow on Twitter
@@ -189,11 +190,11 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [DataCamp](https://play.google.com/store/apps/details?id=com-datacamp)
 - [Programiz](https://play.google.com/store/apps/details?id=com-programiz-learnpython)
 - [Sololearn](https://play.google.com/store/apps/details?id=com-sololearn-python)
-- Encode
-- Enki App
-- Programming Hero
-- Programming Hub
-- Unacademy Learning App
+- [Encode](https://play.google.com/store/apps/details?id=com.upskew.encode)
+- [Enki App](https://play.google.com/store/apps/details?id=com.enki.insights)
+- [Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)
+- [Programming Hub](https://play.google.com/store/apps/details?id=com.freeit.java)
+- [Unacademy Learning App](https://play.google.com/store/apps/details?id=com.unacademyapp)
 
 
 ## Python Newsletters:
