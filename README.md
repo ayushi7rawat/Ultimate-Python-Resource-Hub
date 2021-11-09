@@ -10,22 +10,32 @@ The Ultimate resource hub of Python: All at one place
 Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub/blob/master/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub/blob/master/CODE-OF-CONDUCT.md) for details before you contribute.
 
 ## Table of Contents
-[Ultimate-Python-Resource-Hub](#Ultimate-Python-Resource-Hub) 
-- [Coding Practice Playground for Python](#Coding-Practice-Playground-for-Python)
-- [Free Hosting Platforms for Python](#Free-Hosting-Platforms-for-Python)
-- [Python Books](#Python-Books)
-- [Python Community and Groups](#Python-Community-and-Groups)
-- [Python Courses-Video Tutorials](#Python-Courses-Video-Tutorials)
-- [Python Devs to Follow on Twitter](#Python-Devs-to-Follow-on-Twitter)
-- [Python Github Repositories](#Python-Github-Repositories)
-- [Python IDEs](#Python-IDEs)
-- [Python Libraries for GUI Development](#Python-Libraries-for-GUI-Development)
-- [Python Mobile Applications](#Python-Mobile-Applications)
-- [Python Newsletters](#Python-Newsletters)
-- [Python Podcasts](#Python-Podcasts)
-- [Python Websites](#Python-Websites)
-- [Python YouTube channels](#Python-YouTube-channels)
-- [Technical Blogging Platforms](#Technical-Blogging-Platforms)
+- [Ultimate-Python-Resource-Hub](#Ultimate-Python-Resource-Hub) 
+- [Ultimate-Python-Resource-Hub](#ultimate-python-resource-hub)  
+- [Python Official Documentation](#python-official-documentation)
+- [Contributing](#contributing)
+- [Table of Contents](#table-of-contents)
+- [Requirements](#requirements)
+- [Coding Practice Playground for Python](#coding-practice-playground-for-python)
+- [Free Hosting Platforms for Python](#free-hosting-platforms-for-python)
+- [Python Books](#python-books)
+- [Python Community and Groups](#python-community-and-groups)
+- [Python Courses-Video Tutorials](#python-courses-video-tutorials)
+- [Python Devs to Follow on Twitter](#python-devs-to-follow-on-twitter)
+- [Python Github Repositories](#python-github-repositories)
+- [Python IDEs](#python-ides)
+- [Python Libraries for GUI Development:](#python-libraries-for-gui-development)
+- [Python Frameworks for Web Development:](#python-frameworks-for-web-development)
+- [Python Libraries for Game Development:](#python-libraries-for-game-development)
+- [Python Libraries for Data Science:](#python-libraries-for-data-science)
+- [Python Mobile Applications:](#python-mobile-applications)
+- [Python Newsletters:](#python-newsletters)
+- [Python Podcasts:](#python-podcasts)
+- [Python Websites](#python-websites)
+- [Python YouTube channels](#python-youtube-channels)
+- [Technical Blogging Platforms](#technical-blogging-platforms)
+- [Data Structures and Algorithms](#data-structures-and-algorithms)
+- [Connect with me](#connect-with-me)
 
 ## Requirements
 Have Python 3.7 or newer installed. You can check the version by typing `python3 --version` in your command line. You can [download the latest Python version from here](https://www.python.org/downloads/).
@@ -73,7 +83,9 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [Wolfram Challenges](https://challenges.wolfram.com/)
 - [spoj](https://www.spoj.com/)
 - [urionlinejudge](https://www.urionlinejudge.com.br/)
+ contributing
 - [Python Challenge](http://www.pythonchallenge.com/)
+ master
 ## Free Hosting Platforms for Python
 - [AWS](https://aws.amazon.com/)
 - [FastComet](https://www.fastcomet.com/)
@@ -108,15 +120,15 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [Linkedin Learning Python 2](https://www.linkedin.com/learning/learning-python-2/welcome)
 - [Linkedin Python Essential Training](https://www.linkedin.com/learning/python-essential-training-2/welcome)
 - [pythonprogramming-net](https://pythonprogramming.net/)
-- [Udacity](https://www.udacity.com/course/introduction-to-python--ud1110)
-- [Udemy Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)
+- [Udacity: Introduction to Python](https://www.udacity.com/course/introduction-to-python--ud1110)
+- [Udemy: Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)
 - [Udemy: Python for Absolute Beginners](https://www.udemy.com/course/python-for-absolute-beginners-u/)
-- Complete Python Bootcamp: Go From Zero to Hero (Udemy)
-- Complete Python Masterclass (Udemy)
-- Learn Python 3 (Codecademy)
-- Python for absolute beginners (Udemy)
-- Python for Everybody (Coursera)
-- The Python Bible (Udemy)
+- [Complete Python Bootcamp: Go From Zero to Hero (Udemy)](https://www.udemy.com/course/complete-python-bootcamp/)
+- [Complete Python Masterclass (Udemy)](https://www.udemy.com/course/python-masterclass-course/)
+- [Learn Python 3 (Codecademy)](https://www.codecademy.com/learn/learn-python-3)
+- [Python for absolute beginners (Udemy)](https://www.udemy.com/course/python-for-absolute-beginners-u/)
+- [Python for Everybody (Coursera)](https://www.coursera.org/specializations/python)
+- [The Python Bible (Udemy)](https://www.udemy.com/course/the-python-bible/)
 - [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code/)
 
 ## Python Devs to Follow on Twitter
@@ -136,6 +148,7 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [Python-Learning-Resources](https://github.com/CodementorIO/Python-Learning-Resources)
 - [Python](https://github.com/python)
 - [The Algorithms](https://github.com/TheAlgorithms/Python)
+- [Hackerrank_Python](https://github.com/Kushal997-das/Hackerrank)
 
 ## Python IDEs
 - [Atom](https://atom.io/)
@@ -149,6 +162,7 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [Vi / Vim](https://www.vim.org/)
 - [Visual Studio Code](https://code.visualstudio.com/download)
 - [Wing](https://wingware.com/downloads)
+- [Anaconda](https://www.anaconda.com/products/individual)
 
 ## Python Libraries for GUI Development:
 - curses
@@ -189,11 +203,11 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [DataCamp](https://play.google.com/store/apps/details?id=com-datacamp)
 - [Programiz](https://play.google.com/store/apps/details?id=com-programiz-learnpython)
 - [Sololearn](https://play.google.com/store/apps/details?id=com-sololearn-python)
-- Encode
-- Enki App
-- Programming Hero
-- Programming Hub
-- Unacademy Learning App
+- [Encode](https://play.google.com/store/apps/details?id=com.upskew.encode)
+- [Enki App](https://play.google.com/store/apps/details?id=com.enki.insights)
+- [Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)
+- [Programming Hub](https://play.google.com/store/apps/details?id=com.freeit.java)
+- [Unacademy Learning App](https://play.google.com/store/apps/details?id=com.unacademyapp)
 
 
 ## Python Newsletters:
@@ -239,6 +253,7 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [w3schools-com](https://www-w3schools-com/python/)
 - [Full Stack Python](https://www.fullstackpython.com/)
 - [Real Python](https://realpython.com/)
+- [Holy Python](https://holypython.com/)
 
 ## Python YouTube channels
 - [Amulya's Academy](https://www-youtube-com/channel/UCIgXF0FrYJL0a6sMsRIsLvA)
@@ -270,7 +285,7 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 Hi, I am [Ayushi Rawat](https://ayushirawat.com/), a Software Developer and a YouTuber who likes to write Technical Blogs and contribute to Open Source. You can connect with me and follow my work at:
 [Twitter](https://twitter.com/ayushi7rawat) | [YouTube](https://youtube.com/ayushirawat) | [LinkedIn](https://www.linkedin.com/in/ayushi7rawat/) 
 
-Join my [Telegram Channel](https://t.me/rawatayushi) | [Discord Server](https://discord.gg/Qet6kMd)
+Join my [Telegram Channel](https://t.me/rawatayushi) | [Discord Server](https://discord.gg/uFSUZnBcW8)
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
