@@ -73,6 +73,7 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [Wolfram Challenges](https://challenges.wolfram.com/)
 - [spoj](https://www.spoj.com/)
 - [urionlinejudge](https://www.urionlinejudge.com.br/)
+- [Python Challenge](http://www.pythonchallenge.com/)
 ## Free Hosting Platforms for Python
 - [AWS](https://aws.amazon.com/)
 - [FastComet](https://www.fastcomet.com/)
