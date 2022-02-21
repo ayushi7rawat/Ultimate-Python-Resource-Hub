@@ -187,6 +187,7 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - Pygame
 - PyOpenGL
 - Pyglet
+- Ursina
 
 ## Python Libraries for Data Science:
 - TensorFlow
