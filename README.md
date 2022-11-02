@@ -246,6 +246,7 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [Progate](https://progate-com/languages/python)
 - [Programiz](https://www-programiz-com/python-programming)
 - [PythonForBeginners](https://www-pythonforbeginners-com/basics/python-pip-usage)
+- [Scaler Topics](https://www.scaler.com/topics/python/)
 - [Sololearn](https://www-sololearn-com/)
 - [TutorialsPoint](https://www-tutorialspoint-com/python/index-htm)
 - [w3schools-com](https://www-w3schools-com/python/)
