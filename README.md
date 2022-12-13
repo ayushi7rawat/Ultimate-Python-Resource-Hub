@@ -124,6 +124,7 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [Complete Python Bootcamp: Go From Zero to Hero (Udemy)](https://www.udemy.com/course/complete-python-bootcamp/)
 - [Complete Python Masterclass (Udemy)](https://www.udemy.com/course/python-masterclass-course/)
 - [Learn Python 3 (Codecademy)](https://www.codecademy.com/learn/learn-python-3)
+- [Learn Python Programming in Detail](https://www.scaler.com/topics/python/)
 - [Python for absolute beginners (Udemy)](https://www.udemy.com/course/python-for-absolute-beginners-u/)
 - [Python for Everybody (Coursera)](https://www.coursera.org/specializations/python)
 - [The Python Bible (Udemy)](https://www.udemy.com/course/the-python-bible/)
